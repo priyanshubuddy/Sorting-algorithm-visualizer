@@ -1,0 +1,11 @@
+body {
+    margin: 0px;
+    font-family: 'Oxygen', cursive;
+    font-size: 25px;
+    color: black;
+    background: url(/public/Background.jpg);
+    background-position: left;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
